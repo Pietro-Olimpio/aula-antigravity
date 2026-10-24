@@ -1,0 +1,10 @@
+# Ambientes virtuais e cache do Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Configurações de editores
+.vscode/
+.idea/
+*.swp
